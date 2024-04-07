@@ -12,15 +12,15 @@ Lien vers la biographie :   [Emile-SNYERS-BIO](https://github.com/EmileSNYERS/Em
 
 ## Projet 
 ### Module  de coode 
-<cette page est en cours de construction> [07/04/2024]
+!cette page est en cours de construction! [07/04/2024]
 ### Jeux video
-<cette page est en cours de construction> [07/04/2024]
+!cette page est en cours de construction! [07/04/2024]
 ### Mes Site Wed
-<cette page est en cours de construction> [07/04/2024]
+!cette page est en cours de construction! [07/04/2024]
 ### Autre
-<cette page est en cours de construction> [07/04/2024]
+!cette page est en cours de construction! [07/04/2024]
 ## Mon Poste
-<cette page est en cours de construction> [07/04/2024]
+!cette page est en cours de construction![07/04/2024]
 
 
 ---
