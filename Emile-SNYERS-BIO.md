@@ -39,31 +39,8 @@ Je suis convaincu que ma passion pour la programmation 💻, combinée à mon d�
 <head>
     <meta charset="UTF-8">
     <title>Bouton d'accueil stylisé</title>
-    <style>
-        /* Styles spécifiques au bouton de la page d'accueil */
-        .btn-homepage-3d {
-            background-color: #4CAF50; /* Couleur de fond */
-            border: none; /* Pas de bordure */
-            color: white; /* Couleur du texte */
-            padding: 15px 32px; /* Espacement intérieur */
-            text-align: center; /* Alignement du texte */
-            text-decoration: none; /* Suppression du soulignement */
-            display: inline-block; /* Mode d'affichage */
-            font-size: 16px; /* Taille de la police */
-            margin: 4px 2px; /* Marge extérieure */
-            cursor: pointer; /* Forme du curseur */
-            border-radius: 8px; /* Bordures arrondies */
-            box-shadow: 0 9px #999; /* Ombre pour l'effet 3D */
-            transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1); /* Transition douce pour l'effet au survol */
-        }
-
-        /* Effet au survol du bouton */
-        .btn-homepage-3d:hover {
-            background-color: #3e8e41; /* Changement de couleur de fond */
-            box-shadow: 0 5px #666; /* Modification de l'ombre pour l'effet enfoncé */
-            transform: translateY(4px); /* Déplacement vers le bas pour l'effet enfoncé */
-        }
-    </style>
+    <!-- Lien vers le fichier CSS externe -->
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
@@ -72,4 +49,5 @@ Je suis convaincu que ma passion pour la programmation 💻, combinée à mon d�
 
 </body>
 </html>
+
 
