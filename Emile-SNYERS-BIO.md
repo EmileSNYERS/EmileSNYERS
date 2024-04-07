@@ -41,7 +41,6 @@ Je suis convaincu que ma passion pour la programmation 💻, combinée à mon d�
     color: white;
     padding: 10px 20px;
     text-align: center;
-    text-decoration: none;
     display: inline-block;
     font-size: 16px;
     margin: 4px 2px;
@@ -51,5 +50,7 @@ Je suis convaincu que ma passion pour la programmation 💻, combinée à mon d�
     transform: perspective(1px) translateZ(0);
     box-shadow: 0 0 1px transparent;
     position: relative;
-    overflow: hidden;">Retour à la page d'accueil du profil</button>
+    overflow: hidden;
+  " onmouseover="this.style.backgroundColor='#005A87';this.style.transform='scale(1.1)';this.style.boxShadow='0 5px 15px rgba(0, 0, 0, 0.2)';" onmouseout="this.style.backgroundColor='#008CBA';this.style.transform='none';this.style.boxShadow='0 0 1px transparent';">Page d'accueil</button>
 </a>
+
