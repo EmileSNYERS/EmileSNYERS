@@ -34,30 +34,42 @@ Je suis convaincu que ma passion pour la programmation 💻, combinée à mon d�
 ## Docs
 
 ## Retour à l'accueil
-<style>
-  .btnHome {
-    background-color: #008CBA; /* Couleur du bouton */
-    border: none;
-    color: white;
-    padding: 10px 20px;
-    text-align: center;
-    display: inline-block;
-    font-size: 16px;
-    margin: 4px 2px;
-    cursor: pointer;
-    border-radius: 12px;
-    transition: all 0.3s ease 0s;
-    box-shadow: 0 0 1px transparent;
-  }
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Bouton d'accueil stylisé</title>
+    <style>
+        /* Styles spécifiques au bouton de la page d'accueil */
+        .btn-homepage-3d {
+            background-color: #4CAF50; /* Couleur de fond */
+            border: none; /* Pas de bordure */
+            color: white; /* Couleur du texte */
+            padding: 15px 32px; /* Espacement intérieur */
+            text-align: center; /* Alignement du texte */
+            text-decoration: none; /* Suppression du soulignement */
+            display: inline-block; /* Mode d'affichage */
+            font-size: 16px; /* Taille de la police */
+            margin: 4px 2px; /* Marge extérieure */
+            cursor: pointer; /* Forme du curseur */
+            border-radius: 8px; /* Bordures arrondies */
+            box-shadow: 0 9px #999; /* Ombre pour l'effet 3D */
+            transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1); /* Transition douce pour l'effet au survol */
+        }
 
-  .btnHome:hover, .btnHome:focus, .btnHome:active {
-    background-color: #005A87; /* Couleur du bouton au survol */
-    transform: scale(1.1); /* Agrandit le bouton */
-    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2); /* Ombre portée */
-  }
-</style>
+        /* Effet au survol du bouton */
+        .btn-homepage-3d:hover {
+            background-color: #3e8e41; /* Changement de couleur de fond */
+            box-shadow: 0 5px #666; /* Modification de l'ombre pour l'effet enfoncé */
+            transform: translateY(4px); /* Déplacement vers le bas pour l'effet enfoncé */
+        }
+    </style>
+</head>
+<body>
 
-<a href="https://github.com/EmileSNYERS" style="text-decoration: none;">
-  <button class="btnHome">Page d'accueil</button>
-</a>
+<!-- Bouton de redirection vers la page d'accueil -->
+<a href="/" class="btn-homepage-3d">Accueil</a>
+
+</body>
+</html>
 
