@@ -34,22 +34,15 @@ Je suis convaincu que ma passion pour la programmation 💻, combinée à mon d�
 ## Docs
 
 ## Retour à l'accueil
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <title>Bouton d'accueil stylisé</title>
-    <!-- Lien vers le fichier CSS externe -->
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
 
-<!-- Bouton de redirection vers la page d'accueil -->
-<a href="/" class="btn-homepage-3d">Accueil</a>
-
-</body>
-</html>
 
 | [🏠 Accueil](/) |
 
-
+| Type de disque dur | Rapport qualité-prix | Vitesse de transfert | Solidité | Taille | Niveau sonore |
+| ---- | :--: | :--: | :--: | :--: | :--: |
+| HDD  | bon | Entre 10 et 50 MB/S | fragile  |  |  |
+| HDD pour NAS  | bon | Entre 10 et 30MB/S | fragile  |  |  |
+| HDD hybride | mauvais  | Entre 20 et 100 MB/S | fragile  |  |  |
+| SDD  | bon  | Entre 100 et 500 MB/S | solide  |  |  |
+| mvme 2.0 | moyen  | Entre 1000 et 4000 MB/S | solide  |  |  |
+|  |  |  |  |  |  |
