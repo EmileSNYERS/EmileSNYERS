@@ -36,9 +36,9 @@ Je suis convaincu que ma passion pour la programmation 💻, combinée à mon d�
 ## Retour à l'accueil
 
 
-| |
 
-|   |   |   |   |   |   |
-| ---- | :--: | :--: | :--: | :--: | :--: |
-| [🏠 Accueil](/)   |  |  |   |  |  |
-|  |  |  |  |  |  |
+
+|   |
+| ---- |
+| [🏠 Accueil](/)   | 
+|  |
