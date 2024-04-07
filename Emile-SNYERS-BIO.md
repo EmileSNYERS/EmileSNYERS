@@ -51,4 +51,6 @@ Je suis convaincu que ma passion pour la programmation 💻, combinée à mon d�
 </html>
 
 [![Bouton Accueil](URL_de_l_image_du_bouton)](URL_de_destination)
+[🏠 Accueil](/)
+[Accueil](/)
 
