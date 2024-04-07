@@ -34,8 +34,8 @@ Je suis convaincu que ma passion pour la programmation 💻, combinée à mon d�
 ## Docs
 
 ## Retour à l'accueil
-<a href="https://github.com/EmileSNYERS" style="text-decoration: none;">
-  <button style="
+<style>
+  .btnHome {
     background-color: #008CBA; /* Couleur du bouton */
     border: none;
     color: white;
@@ -47,10 +47,17 @@ Je suis convaincu que ma passion pour la programmation 💻, combinée à mon d�
     cursor: pointer;
     border-radius: 12px;
     transition: all 0.3s ease 0s;
-    transform: perspective(1px) translateZ(0);
     box-shadow: 0 0 1px transparent;
-    position: relative;
-    overflow: hidden;
-  " onmouseover="this.style.backgroundColor='#005A87';this.style.transform='scale(1.1)';this.style.boxShadow='0 5px 15px rgba(0, 0, 0, 0.2)';" onmouseout="this.style.backgroundColor='#008CBA';this.style.transform='none';this.style.boxShadow='0 0 1px transparent';">Page d'accueil</button>
+  }
+
+  .btnHome:hover, .btnHome:focus, .btnHome:active {
+    background-color: #005A87; /* Couleur du bouton au survol */
+    transform: scale(1.1); /* Agrandit le bouton */
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2); /* Ombre portée */
+  }
+</style>
+
+<a href="https://github.com/EmileSNYERS" style="text-decoration: none;">
+  <button class="btnHome">Page d'accueil</button>
 </a>
 
