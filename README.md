@@ -6,7 +6,7 @@ Je suis Émile, un passionné d'informatique avec un intérêt particulier pour 
 
 ## Bio
 Découvrez ma bibliographie pour un aperçu détaillé de mes recherches et travaux.
-lein :  Emile-SNYERS-BIO
+lein :  Emile-SNYERS-BIO https://github.com/EmileSNYERS/EmileSNYERS/blob/main/Emile-SNYERS-BIO.md
 
 ## Projet 
 ### Module  de coode 
