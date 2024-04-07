@@ -32,3 +32,24 @@ Je suis convaincu que ma passion pour la programmation 💻, combinée à mon d�
 🏆 Au fil de mon parcours, j'ai eu l'honneur d'être major de promotion 🥇, un accomplissement qui reflète mon dévouement 🌟 et mon engagement envers mes études 📚 et ma carrière 💼.
 ---
 ## Docs
+
+## Retour à l'accueil
+<a href="https://github.com/EmileSNYERS" style="text-decoration: none;">
+  <button style="
+    background-color: #008CBA; /* Couleur du bouton */
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 12px;
+    transition: all 0.3s ease 0s;
+    transform: perspective(1px) translateZ(0);
+    box-shadow: 0 0 1px transparent;
+    position: relative;
+    overflow: hidden;">Retour à la page d'accueil du profil</button>
+</a>
