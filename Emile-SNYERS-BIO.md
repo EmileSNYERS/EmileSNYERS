@@ -33,13 +33,9 @@ Je suis convaincu que ma passion pour la programmation 💻, combinée à mon d�
 ---
 ## Docs
 
-## Retour à l'accueil
 
-
-
-
-|   |
-| ---- |
-| [🏠 Retour à la page d'accueil](https://github.com/EmileSNYERS)   | 
-|  |
+## |   |
+## | ---- |
+## | [🏠 Retour à la page d'accueil](https://github.com/EmileSNYERS)   | 
+## |  |
 
