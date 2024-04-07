@@ -4,7 +4,7 @@ Je suis Émile, un passionné d'informatique avec un intérêt particulier pour 
 ##
 §cette page est en cours de construction§ [07/04/2024]
 
-## Bio
+## [Bio](https://github.com/EmileSNYERS/EmileSNYERS/blob/main/Emile-SNYERS-BIO.md)
 Découvrez ma bibliographie pour un aperçu détaillé de mes recherches et travaux.
 
 Lien vers la biographie :   [Emile-SNYERS-BIO](https://github.com/EmileSNYERS/EmileSNYERS/blob/main/Emile-SNYERS-BIO.md)
