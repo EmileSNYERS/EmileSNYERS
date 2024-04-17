@@ -13,15 +13,20 @@ Lien vers la biographie :   [Emile-SNYERS-BIO](https://github.com/EmileSNYERS/Em
 ## Projet 
 ### Module  de coode 
 #### HTML
-!cette page est en cours de construction! [07/04/2024]
+!cette page est en cours de construction! [17/04/2024]
+
 #### CSS
-!cette page est en cours de construction! [07/04/2024]
+!cette page est en cours de construction! [10/04/2024]
+
 #### JAVACRIT
 !cette page est en cours de construction! [07/04/2024]
+
 ### Jeux video
-!cette page est en cours de construction! [07/04/2024]
+!cette page est en cours de construction! [05/04/2024]
+
 ### Mes Site Wed
-!cette page est en cours de construction! [07/04/2024]
+!cette page est en cours de construction! [17/04/2024]
+
 Les sites suivants sont en cours de construction :
 1 - Création d'un site de A à Z sans utiliser des outils préconçus tels que WordPress ou Google Site, sur le thème de Windows XP. (C'est le tout premier site que j'ai réalisé)
 [emilesnyers.site](https://www.teepeehub.site/)
