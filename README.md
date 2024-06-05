@@ -45,6 +45,11 @@ Les sites suivants sont en cours de construction :
 4 - création d'un site internet avec outils Google site :
 ~~[www.■■■■■.fr]([https://www](https://www.teepeehub.site/))~~ Le lien public a été supprimé car le projet est devenu privé.
 
+5- Connexion entre un site web et une base de données externe.
+[Add IT Asset](https://emilesnyers.tech/)
+
+6- création d'un site web pour une entreprise demain avec un calculateur en ligne de devis
+*le nom de l'entreprise devrait être censuré* c'est pour cela que **je ne peux pas mettre le lien** pour l'instant
 ### Autre
 !cette page est en cours de construction! [07/04/2024]
 ## Mon Poste
