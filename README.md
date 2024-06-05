@@ -13,7 +13,7 @@ Lien vers la biographie :   [Emile-SNYERS-BIO](https://github.com/EmileSNYERS/Em
 ## Projet 
 ### Module  de coode 
 #### HTML
-!cette page est en cours de construction! [17/04/2024]
+!cette page est en cours de construction! [05/06/2024]
 
 [http://emilesnyers.com/](http://emilesnyers.com/)
 
@@ -21,7 +21,7 @@ Lien vers la biographie :   [Emile-SNYERS-BIO](https://github.com/EmileSNYERS/Em
 !cette page est en cours de construction! [10/04/2024]
 
 #### JAVACRIT
-!cette page est en cours de construction! [07/04/2024]
+!cette page est en cours de construction! [05/06/2024]
 
 [Vous voulez des JavaScript gratuit !!!!](https://teepeehub.site/Sessions/invit%C3%A9/biblioth%C3%A8queJavaScript.html)
 
