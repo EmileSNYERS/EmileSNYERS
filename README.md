@@ -52,6 +52,10 @@ Les sites suivants sont en cours de construction :
 6- création d'un site web pour une entreprise demain avec un calculateur en ligne de devis
 *le nom de l'entreprise devrait être censuré* c'est pour cela que **je ne peux pas mettre le lien** pour l'instant
 ### Autre
+
+7- Création de plusieurs modèles de sites web qui sera mis à disposition gratuitement pour ceux qui veulent se lancer.
+
+
 !cette page est en cours de construction! [07/04/2024]
 ## Mon Poste
 !cette page est en cours de construction! [07/04/2024]
