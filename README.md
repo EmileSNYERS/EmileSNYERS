@@ -14,6 +14,7 @@ Lien vers la biographie :   [Emile-SNYERS-BIO](https://github.com/EmileSNYERS/Em
 ### Module  de coode 
 #### HTML
 !cette page est en cours de construction! [17/04/2024]
+[http://emilesnyers.com/](http://emilesnyers.com/)
 
 #### CSS
 !cette page est en cours de construction! [10/04/2024]
