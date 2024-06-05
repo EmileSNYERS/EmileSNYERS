@@ -21,6 +21,7 @@ Lien vers la biographie :   [Emile-SNYERS-BIO](https://github.com/EmileSNYERS/Em
 
 #### JAVACRIT
 !cette page est en cours de construction! [07/04/2024]
+[Des script gratuit !!https:](//teepeehub.site/Sessions/invit%C3%A9/biblioth%C3%A8queJavaScript.html)
 
 ### Jeux video
 !cette page est en cours de construction! [05/04/2024]
