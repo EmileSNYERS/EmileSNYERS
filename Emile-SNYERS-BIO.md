@@ -29,7 +29,7 @@ Mes contributions à Google Maps 🗺 ont accumulé plus de 55 millions de vues 
 🎉 Je trouve une immense satisfaction 😄 dans le fait de voir un projet passer de l'idée 💡 à la réalisation 🎯. 
 Je suis convaincu que ma passion pour la programmation 💻, combinée à mon désir constant d'apprendre 📚, fera de moi un atout précieux 💎 dans tout environnement professionnel axé sur la tech 🏢.
 
-🏆 Au fil de mon parcours, j'ai eu l'honneur d'être major de promotion 🥇, un accomplissement qui reflète mon dévouement 🌟 et mon engagement envers mes études 📚 et ma carrière 💼.
+🏆 Au fil de mon parcours, j'ai eu l'honneur d'être major de promotion 🥇, un accomplissement qui a renforcé ma confiance en moi 🌟 et mon engagement envers mes études 📚 et ma carrière 💼.
 ---
 ## Docs
 
