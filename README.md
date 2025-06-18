@@ -15,7 +15,7 @@ Lien vers la biographie :   [Emile-SNYERS-BIO](https://github.com/EmileSNYERS/Em
 #### HTML
 !cette page est en cours de construction! [05/06/2024]
 
-[http://emilesnyers.com/](http://emilesnyers.com/)
+[http://emilesnyers.fr/]([http://emilesnyers.com/](https://emilesnyersmeteo.ovh/liste-sites.html))
 
 #### CSS
 !cette page est en cours de construction! [10/04/2024]
@@ -26,7 +26,9 @@ Lien vers la biographie :   [Emile-SNYERS-BIO](https://github.com/EmileSNYERS/Em
 [Vous voulez des JavaScript gratuit !!!!](https://teepeehub.site/Sessions/invit%C3%A9/biblioth%C3%A8queJavaScript.html)
 
 ### Jeux video
-!cette page est en cours de construction! [05/04/2024]
+!cette page est en cours de construction! [18/06/2025]
+##### CMD AVANTURE
+Un petit joueur d'aventure fait en 2D sur CMD. Oui oui CMD.
 
 ### Mes Site Wed
 !cette page est en cours de construction! [17/04/2024]
@@ -34,7 +36,8 @@ Lien vers la biographie :   [Emile-SNYERS-BIO](https://github.com/EmileSNYERS/Em
 Les sites suivants sont en cours de construction :
 
 1 - Création d'un site de A à Z sans utiliser des outils préconçus tels que WordPress ou Google Site, sur le thème de Windows XP. (C'est le tout premier site que j'ai réalisé)
-[emilesnyers.site](https://www.teepeehub.site/)
+🟥Le site est actuellement hors ligne, Il sera prochainement remis en ligne sous un nouveau domaine.
+~~[emilesnyers.site](https://www.teepeehub.site/)~~
 
 2 - Projet de création d'un site web via Obsidian avec le Pudding " My Garden" dans le but de partager des connaissances et de présenter certains projets informatiques pertinents.  
 [emilesnyersipi.ovh](https://www.emilesnyersipi.ovh/)
