@@ -15,8 +15,7 @@ Lien vers la biographie :   [Emile-SNYERS-BIO](https://github.com/EmileSNYERS/Em
 #### HTML
 !cette page est en cours de construction! [05/06/2024]
 
-[http://emilesnyers.fr/]([http://emilesnyers.com/](https://emilesnyersmeteo.ovh/liste-sites.html))
-
+Je travaille actuellement sur la conception de divers cours et modules 📚✨, qui sont en cours de développement 🚀💡.
 #### CSS
 !cette page est en cours de construction! [10/04/2024]
 
