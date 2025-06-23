@@ -35,7 +35,8 @@ Lien vers la biographie :   [Emile-SNYERS-BIO](https://github.com/EmileSNYERS/Em
 !cette page est en cours de construction! [23/06/2025]
 
 Je travaille actuellement sur la conception de divers cours et modules 📚✨, qui sont en cours de développement 🚀💡.
-
+[Guide pratique pour utiliser les tableau en HTML](https://github.com/EmileSNYERS/EmileInnovationHub/blob/main/.github/Module%20r%C3%A9utilisable/Liste.html)
+[Guide pratique pour utiliser les listes en HTML](https://github.com/EmileSNYERS/EmileInnovationHub/blob/main/.github/Module%20r%C3%A9utilisable/Tableau%20avance.html)
 
 #### CSS
 !cette page est en cours de construction! [10/04/2024]
