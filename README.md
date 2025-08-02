@@ -107,7 +107,14 @@ Cre un site Web inspiré de l'interface des ordinateurs de la série alpine
 
 
 ## Mon Poste
-!cette page est en cours de construction! [07/04/2024]
+!cette page est en cours de construction! [02/08/2024]
+
+
+CPU : RAYEN 7 
+My RAM : 64 GO DDR4 3600MZ
+GPU : NIVEDA 3060 
+DISQUE : 1000 GO NVME 
+
 
 
 ---
