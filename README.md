@@ -26,6 +26,7 @@ Lien vers la biographie :   [Emile-SNYERS-BIO](https://github.com/EmileSNYERS/Em
 ## Coure
 
 !cette page est en cours de construction! [20/06/2025]
+Projet mis en pause jusqu'à [12/12/2025]
 
 
 **Progression :** ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ 75%
@@ -37,6 +38,7 @@ Lien vers la biographie :   [Emile-SNYERS-BIO](https://github.com/EmileSNYERS/Em
 
 #### HTML
 !cette page est en cours de construction! [23/06/2025]
+Projet mis en pause jusqu'à [12/12/2025]
 
 Je travaille actuellement sur la conception de divers cours et modules 📚✨, qui sont en cours de développement 🚀💡.
 
@@ -46,9 +48,11 @@ Je travaille actuellement sur la conception de divers cours et modules 📚✨, 
 
 #### CSS
 !cette page est en cours de construction! [10/04/2024]
+Projet mis en pause jusqu'à [12/12/2025]
 
 #### JAVACRIT
 !cette page est en cours de construction! [05/06/2024]
+Projet mis en pause jusqu'à [12/12/2025]
 
 [Vous voulez des JavaScript gratuit !](https://teepeehub.site/Sessions/invit%C3%A9/biblioth%C3%A8queJavaScript.html)
 
@@ -58,11 +62,13 @@ Je travaille actuellement sur la conception de divers cours et modules 📚✨, 
 
 ### Jeux video
 !cette page est en cours de construction! [18/06/2025]
+Projet mis en pause jusqu'à [12/12/2025]
 ##### CMD AVANTURE
 Un petit joueur d'aventure fait en 2D sur CMD. Oui oui CMD.
 
 ### Mes Site Wed
 !cette page est en cours de construction! [17/04/2024]
+Projet mis en pause jusqu'à [12/12/2025]
 
 Les sites suivants sont en cours de construction :
 
@@ -97,6 +103,7 @@ Les sites suivants sont en cours de construction :
 
 
 !cette page est en cours de construction! [07/04/2024]
+Projet mis en pause jusqu'à [12/12/2025]
 
 
 8 - Interfaces reto inspiré de ALEIN 
@@ -108,6 +115,7 @@ Cre un site Web inspiré de l'interface des ordinateurs de la série alpine
 
 ## Mon Poste
 !cette page est en cours de construction! [02/08/2024]
+Projet mis en pause jusqu'à [12/12/2025]
 
 
 CPU : RAYEN 7 
