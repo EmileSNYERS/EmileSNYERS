@@ -19,7 +19,7 @@ Lien vers la biographie :   [Emile-SNYERS-BIO](https://github.com/EmileSNYERS/Em
 
 #### Liste
 
-
+un cours sur les listes en HTML vous pouvez le récupérer dans le dépôt
 
 ### Page pour Site Web
 
@@ -66,14 +66,15 @@ Projet mis en pause jusqu'à [12/12/2025]
 ##### CMD AVANTURE
 Un petit joueur d'aventure fait en 2D sur CMD. Oui oui CMD.
 
+[18/10/2025]un site web qui détaille le projet et qui vous le propose est en cours de création
 ### Mes Site Wed
 
 #### les sites web outils
 
 ce sont des sites Web qui proposent des outils en ligne ou qui sont des outils directement.
 
-- outils de création de schéma
-- ma bibliothèque en 3D en ligne
+- Outils de création de schéma
+- Ma bibliothèque en 3D en ligne
 
 #### les autres site web
 
