@@ -17,7 +17,7 @@ Lien vers la biographie :   [Emile-SNYERS-BIO](https://github.com/EmileSNYERS/Em
 
 !cette page est en cours de construction! [20/06/2025]
 
-#### Liste5
+#### Liste
 
 
 
@@ -67,6 +67,16 @@ Projet mis en pause jusqu'à [12/12/2025]
 Un petit joueur d'aventure fait en 2D sur CMD. Oui oui CMD.
 
 ### Mes Site Wed
+
+#### les sites web outils
+
+ce sont des sites Web qui proposent des outils en ligne ou qui sont des outils directement.
+
+- outils de création de schéma
+- ma bibliothèque en 3D en ligne
+
+#### les autres site web
+
 !cette page est en cours de construction! [17/04/2024]
 Projet mis en pause jusqu'à [12/12/2025]
 
