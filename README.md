@@ -120,6 +120,7 @@ Projet mis en pause jusqu'à [12/12/2025]
 8 - Interfaces reto inspiré de ALEIN 
 
 Cre un site Web inspiré de l'interface des ordinateurs de la série alpine 
+le projet sera réalisé pas avant 2026
 
 
 
