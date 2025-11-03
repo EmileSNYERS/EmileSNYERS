@@ -79,8 +79,10 @@ ce sont des sites Web qui proposent des outils en ligne ou qui sont des outils d
 
 #### les autres site web
 
-!cette page est en cours de construction! [17/04/2024]
-Projet mis en pause jusqu'à [12/12/2025]
+##### Convertisseur de Nombres en Lettres
+
+https://emilesnyersmeteo.ovh/liste-sites.html
+[emile-snyers-chiffre-en-lettre](https://emile-snyers-chiffre-en-lettre.ovh/)
 
 Les sites suivants sont en cours de construction :
 
