@@ -53,9 +53,9 @@ Projet mis en pause jusqu'à [12/12/2025]
 #### JAVACRIT
 !cette page est en cours de construction! [05/06/2024]
 Projet mis en pause jusqu'à [12/12/2025]
+<div style="color: red;">- 18/06/2025 🟥Le site est actuellement hors ligne, Il sera prochainement remis en ligne sous un nouveau domaine.</div>
 
-[Vous voulez des JavaScript gratuit !](https://teepeehub.site/Sessions/invit%C3%A9/biblioth%C3%A8queJavaScript.html)
-
+[~~Vous voulez des JavaScript gratuit !~~](https://■■■■■teepeehub■■■■■.site/Sessions/invit%C3%A9/biblioth%C3%A8queJavaScript.html)
 
 <div style="color: red;">- 18/06/2025 🟥Le site est actuellement hors ligne, Il sera prochainement remis en ligne sous un nouveau domaine.</div>
 
