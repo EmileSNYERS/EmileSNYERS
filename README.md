@@ -88,6 +88,15 @@ Cet outil permet d'additionner, soustraire et manipuler des durées de manière 
 https://emilesnyers-outil-de-calcul-de-duree.ovh/
 
 
+#### - Catalogue d'emojis avec outils de recherche
+
+Ceci peut vous permettre de rechercher et de trouver facilement les emojis que vous souhaitez, avec en plus la possibilité de gérer vos favoris et de suivre vos succès.
+L'outil est totalement gratuit et est en ligne
+
+https://emojis.ovh/
+
+
+
 ##### - Outils de création de schéma
 ##### - Ma bibliothèque en 3D en ligne
   19/10/2025 Première version créée Sera bientôt mis sur un site web pour voir et partager
