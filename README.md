@@ -71,18 +71,31 @@ Un petit joueur d'aventure fait en 2D sur CMD. Oui oui CMD.
 
 #### les sites web outils
 
+##### - Convertisseur de Nombres en Lettres
+Site web permettant de convertir des chiffres en lettres. C'est un outil gratuit et pratique pour tous vos besoins de conversion.
+Développement d'un site web permettant de convertir un chiffre en sa version écrite en lettres. Plusieurs formats sont proposés, incluant des options comme l'ajout d'espaces, de tirets ou de centimes à la fin.
+
+https://emilesnyersmeteo.ovh/liste-sites.html
+
 ce sont des sites Web qui proposent des outils en ligne ou qui sont des outils directement.
 
-- Outils de création de schéma
-- Ma bibliothèque en 3D en ligne
+
+#### - OUTILS DE CALCUL DE TEMPS
+
+Un calculateur de temps avancé permettant d'effectuer des opérations complexes sur des durées avec une précision maximale.
+Cet outil permet d'additionner, soustraire et manipuler des durées de manière intuitive. Idéal pour les calculs de temps de travail, de projets ou toute autre application nécessitant une gestion précise du temps.
+
+https://emilesnyers-outil-de-calcul-de-duree.ovh/
+
+
+##### - Outils de création de schéma
+##### - Ma bibliothèque en 3D en ligne
   19/10/2025 Première version créée Sera bientôt mis sur un site web pour voir et partager
 
 #### les autres site web
 
-##### Convertisseur de Nombres en Lettres
 
-https://emilesnyersmeteo.ovh/liste-sites.html
-[emile-snyers-chiffre-en-lettre](https://emile-snyers-chiffre-en-lettre.ovh/)
+
 
 Les sites suivants sont en cours de construction :
 
