@@ -160,6 +160,8 @@ My RAM : 64 GO DDR4 3600MZ
 GPU : NIVEDA 3060 
 DISQUE : 1000 GO NVME 
 
+
+1 imprimante 3D
 Ordinateur portable HP EliteBook 💻 avec une modification 💪 pour pouvoir avoir 64 Go de RAM 🚀 cadencés à 3600 milliards de Hertz ⚡.
 
 
