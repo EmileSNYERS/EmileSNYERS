@@ -1,4 +1,4 @@
-# Bonjour et bienvenue sur ma page GitHub! 
+9# Bonjour et bienvenue sur ma page GitHub! 
 Je suis Émile, un passionné d'informatique avec un intérêt particulier pour le développement de logiciels et la digitalisation des processus. 
 À travers mes projets, j'explore les façons de rendre la technologie plus accessible et utile à tous. 
 ##
@@ -162,6 +162,11 @@ DISQUE : 1000 GO NVME
 
 
 1 imprimante 3D
+ creality Ender 3 V2 
+     améliorer avec un nouveau plateau un nouveau kit de calibrage automatique et support du plateau amélioré et un extrait de amélioré
+
+
+
 Ordinateur portable HP EliteBook 💻 avec une modification 💪 pour pouvoir avoir 64 Go de RAM 🚀 cadencés à 3600 milliards de Hertz ⚡.
 
 
