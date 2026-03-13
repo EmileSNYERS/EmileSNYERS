@@ -165,7 +165,7 @@ DISQUE : 1000 GO NVME
  creality Ender 3 V2 
      améliorer avec un nouveau plateau un nouveau kit de calibrage automatique et support du plateau amélioré et un extrait de amélioré
 
-
+une autre imprimante supplémentaire prévue bambu A1
 
 Ordinateur portable HP EliteBook 💻 avec une modification 💪 pour pouvoir avoir 64 Go de RAM 🚀 cadencés à 3600 milliards de Hertz ⚡.
 
