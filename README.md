@@ -174,4 +174,4 @@ Ordinateur portable HP EliteBook 💻 avec une modification 💪 pour pouvoir av
 ## Docs
 <cette page est en cours de construction> [07/04/2024]
 
-
+actuellement en train sur des nouveaux projets de développement de site web
