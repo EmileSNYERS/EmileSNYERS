@@ -37,7 +37,7 @@ Projet mis en pause jusqu'à [12/12/2025]
 
 
 #### HTML
-!cette page est en cours de construction! [23/06/2025]
+!cette page est en cours de construction! [23/09/2025]
 Projet mis en pause jusqu'à [12/12/2025]
 
 Je travaille actuellement sur la conception de divers cours et modules 📚✨, qui sont en cours de développement 🚀💡.
@@ -57,7 +57,7 @@ Projet mis en pause jusqu'à [12/12/2025]
 
 [~~Vous voulez des JavaScript gratuit !~~](https://■■■■■teepeehub■■■■■.site/Sessions/invit%C3%A9/biblioth%C3%A8queJavaScript.html)
 
-<div style="color: red;">- 18/06/2025 🟥Le site est actuellement hors ligne, Il sera prochainement remis en ligne sous un nouveau domaine.</div>
+<div style="color: red;">- 18/09/2025 🟥Le site est actuellement hors ligne, Il sera prochainement remis en ligne sous un nouveau domaine.</div>
 
 
 ### Jeux video
