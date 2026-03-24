@@ -165,7 +165,9 @@ DISQUE : 1000 GO NVME
  creality Ender 3 V2 
      améliorer avec un nouveau plateau un nouveau kit de calibrage automatique et support du plateau amélioré et un extrait de amélioré
 
-pour l'heure actuelle hors-service
+Pour l'heure actuelle hors-service.
+
+je vous recommande pas ce modèle d'imprimante peu fiable.
 
 une autre imprimante supplémentaire prévue bambu A1
 
