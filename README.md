@@ -1,4 +1,4 @@
-9# Bonjour et bienvenue sur ma page GitHub! 
+# Bonjour et bienvenue sur ma page GitHub! 
 Je suis Émile, un passionné d'informatique avec un intérêt particulier pour le développement de logiciels et la digitalisation des processus. 
 À travers mes projets, j'explore les façons de rendre la technologie plus accessible et utile à tous. 
 ##
@@ -25,8 +25,8 @@ un cours sur les listes en HTML vous pouvez le récupérer dans le dépôt
 
 ## Coure
 
-!cette page est en cours de construction! [20/06/2025]
-Projet mis en pause jusqu'à [12/12/2025]
+!cette page est en cours de construction! [20/03/2026]
+Projet mis en pause jusqu'à [12/03/2026]
 
 
 **Progression :** ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ 75%
