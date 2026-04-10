@@ -161,15 +161,11 @@ GPU : NIVEDA 3060
 DISQUE : 1000 GO NVME 
 
 
-1 imprimante 3D
- creality Ender 3 V2 
+2 imprimante 3D
+ - 1 creality Ender 3 V2 
      améliorer avec un nouveau plateau un nouveau kit de calibrage automatique et support du plateau amélioré et un extrait de amélioré
-
-Pour l'heure actuelle hors-service.
-
-je vous recommande pas ce modèle d'imprimante peu fiable.
-
-une autre imprimante supplémentaire prévue bambu A1
+ - 1 Bambu A1 
+     Avec un lot de bus de différentes tailles
 
 Ordinateur portable HP EliteBook 💻 avec une modification 💪 pour pouvoir avoir 64 Go de RAM 🚀 cadencés à 3600 milliards de Hertz ⚡.
 
