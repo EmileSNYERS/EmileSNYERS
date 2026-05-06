@@ -166,6 +166,7 @@ DISQUE : 1000 GO NVME
      améliorer avec un nouveau plateau un nouveau kit de calibrage automatique et support du plateau amélioré et un extrait de amélioré
  - 1 Bambu A1 
      Avec un lot de bus de différentes tailles
+     1 Un plateau super froid édition officielle et un édition Tému
 
 Ordinateur portable HP EliteBook 💻 avec une modification 💪 pour pouvoir avoir 64 Go de RAM 🚀 cadencés à 3600 milliards de Hertz ⚡.
 
