@@ -167,6 +167,7 @@ DISQUE : 1000 GO NVME
  - 1 Bambu A1 
      Avec un lot de bus de différentes tailles
      1 Un plateau super froid édition officielle et un édition Tému
+   Bientôt une 3e imprimante
 
 Ordinateur portable HP EliteBook 💻 avec une modification 💪 pour pouvoir avoir 64 Go de RAM 🚀 cadencés à 3600 milliards de Hertz ⚡.
 
