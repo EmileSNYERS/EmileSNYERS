@@ -173,6 +173,8 @@ DISQUE : 1000 GO NVME
 
 
 J'ai commandé l'imprimante de bombulab X2D
+- - J'ai raté la livraison 📦 et j'ai oublié déjà à récupérer à la poste 🚫📬 parti en Allemagne 🇩🇪. Je suis trop triste 😢 et trop déçu 😞.
+
 
 
 N'hésitez pas à me dire si vous souhaitez d'autres modifications ! 😊
