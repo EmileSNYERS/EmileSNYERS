@@ -164,12 +164,18 @@ DISQUE : 1000 GO NVME
 2 imprimante 3D
  - 1 creality Ender 3 V2 
      améliorer avec un nouveau plateau un nouveau kit de calibrage automatique et support du plateau amélioré et un extrait de amélioré
- - 1 Bambu A1 
+ - 2 Bambu A1 
      Avec un lot de bus de différentes tailles
      1 Un plateau super froid édition officielle et un édition Tému
    
    Bientôt une 3e imprimante
-  J'hésite entre 2 modèles
+  Bien sûr ! Voici le texte avec des emojis ajoutés pour lui donner plus de puissance :
+
+
+J'ai commandé l'imprimante de bombulab X2D
+
+
+N'hésitez pas à me dire si vous souhaitez d'autres modifications ! 😊
    
 
 Ordinateur portable HP EliteBook 💻 avec une modification 💪 pour pouvoir avoir 64 Go de RAM 🚀 cadencés à 3600 milliards de Hertz ⚡.
