@@ -2,7 +2,7 @@
 Je suis Émile, un passionné d'informatique avec un intérêt particulier pour le développement de logiciels et la digitalisation des processus. 
 À travers mes projets, j'explore les façons de rendre la technologie plus accessible et utile à tous. 
 
-Je vous conseille de quitter ma page sur Maker Word : https://makerworld.com/fr/models/1775173-stand-phone-laptop#profileId-1890345
+Je vous invite à consulter ma page sur MakerWorld : 👉  https://makerworld.com/fr/models/1775173-stand-phone-laptop#profileId-1890345
 
 ##
 §cette page est en cours de construction§ [07/04/2024].
