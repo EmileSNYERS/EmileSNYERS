@@ -167,9 +167,10 @@ DISQUE : 1000 GO NVME
  - 2 Bambu A1 
      Avec un lot de bus de différentes tailles
      1 Un plateau super froid édition officielle et un édition Tému
-   
-   Bientôt une 3e imprimante
-  Bien sûr ! Voici le texte avec des emojis ajoutés pour lui donner plus de puissance :
+- 1 X2D 
+     Une imprimante à double buse dans un ensemble compact et intégré.
+     Je la trouve vraiment génial
+
 
 
 J'ai commandé l'imprimante de bombulab X2D
