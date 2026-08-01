@@ -2,6 +2,9 @@
 Je suis Émile, un passionné d'informatique avec un intérêt particulier pour le développement de logiciels et la digitalisation des processus. 
 À travers mes projets, j'explore les façons de rendre la technologie plus accessible et utile à tous. 
 
+Récemment je me suis lancé à fond dans l'impression 3D et j'ai découvert. Une autre passion. contrairement à la programmation, ce n'est pas que de la donner c'est de la 3D. Je construit en trois 2D et j'imprime en 3D.
+
+
 Je vous invite à consulter ma page sur MakerWorld : 👉  https://makerworld.com/fr/@Emile_SNYERS
 
 ##
