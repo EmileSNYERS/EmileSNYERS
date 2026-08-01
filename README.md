@@ -174,7 +174,8 @@ DISQUE : 1000 GO NVME
      Une imprimante à double buse dans un ensemble compact et intégré.
      Je la trouve vraiment génial
 
-
+Un jeu de quatre plateaux
+Afin de gagner du temps. Une impression est terminée et tout de suite, je vais remplacer le plateau et je relance une nouvelle
 
 J'ai commandé l'imprimante de bombulab X2D
 - - J'ai raté la livraison 📦 et j'ai oublié déjà à récupérer à la poste 🚫📬 parti en Allemagne 🇩🇪. Je suis trop triste 😢 et trop déçu 😞.
