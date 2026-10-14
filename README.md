@@ -79,7 +79,9 @@ CPU : RAYEN 7 My RAM : 64 GO DDR4 3600MZ GPU : NIVEDA 3060 DISQUE : 1000 GO NVME
 1 X2D Une imprimante à double buse dans un ensemble compact et intégré. Je la trouve vraiment génial
 Un jeu de quatre plateaux Afin de gagner du temps. Une impression est terminée et tout de suite, je vais remplacer le plateau et je relance une nouvelle
 
-J'ai commandé l'imprimante de bombulab X2D
+J'ai ouvert un site web pour vendre des impressions 3D [emile3D](https://emile3d.fr/)
+
+https://emile3d.fr/images/atelier-01.jpg
 
 Présentation actualisée le **14 octobre 2026**, avec l'aide d'une IA, à partir de mon parcours, de mes documents et de mes projets publics.
 
